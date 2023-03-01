@@ -34,6 +34,7 @@ Navigate to `http://localhost:18080/api` and create two Heroes by opening `POST 
     "realname": "Bruce Banner",
     "aka": "The Incredible Hulk, The Green"
 }
+```
 
 
 A JSON list of heroes should be available [here](http://localhost:18080/api/heroes.json).
