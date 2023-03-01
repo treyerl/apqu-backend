@@ -35,6 +35,7 @@ Navigate to `http://localhost:18080/api` and create two Heroes by opening `POST 
     "aka": "The Incredible Hulk, The Green"
 }
 
+
 A JSON list of heroes should be available [here](http://localhost:18080/api/heroes.json).
 
 Check out `apqu-frontend` in folder next to `apqu-backend` and compile it. The `nginx` container of this repository points to the `build` directory of the frontend repo. Once this is done, you can open `http://localhost:18080`.
